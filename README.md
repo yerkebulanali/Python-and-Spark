@@ -30,5 +30,7 @@ Download and Install Ubuntu
 
 - Download and Install Spark
   - https://spark.apache.org/downloads.html
-
-  
+  - sudo tar -zxvf spark-3.3.0-bin-hadoop3.tgz
+  - export SPARK_HOME='home/ubuntu/spark/spark-3.3.0-bin-hadoop3'
+  - export PATH=$SPARK_HOME:$PATH
+  - export PYTHONPATH=$SPARK_HOME/python:$PYTHONPATH
