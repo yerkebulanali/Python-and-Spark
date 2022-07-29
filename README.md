@@ -34,3 +34,6 @@ Download and Install Ubuntu
   - export SPARK_HOME='home/ubuntu/spark/spark-3.3.0-bin-hadoop3'
   - export PATH=$SPARK_HOME:$PATH
   - export PYTHONPATH=$SPARK_HOME/python:$PYTHONPATH
+  - export PYSPARK_DRIVER_PYTHON='jupyter'
+  - export PYSPARK_DRIVER_PYTHON_OPTS='notebook'
+  - export PYSPARK_PYTHON=python3
