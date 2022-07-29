@@ -5,8 +5,11 @@ Some tutorial notes for Spark and Python.
 
 ## Download ##
 
-- Download (https://www.virtualbox.org/wiki/Downloads) and Install Virtual Box
-- Download (https://ubuntu.com/download/desktop) and Install Ubuntu
+Download and Install Virtual Box
+  https://www.virtualbox.org/wiki/Downloads
+
+Download and Install Ubuntu
+  https://ubuntu.com/download/desktop
 
 ## Installation Via Ubuntu Terminal ##
 
