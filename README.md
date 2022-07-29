@@ -42,3 +42,7 @@ Download and Install Ubuntu
 
 - Setting up PySpark
   - pip install findspark
+  - pyton3
+  - import findspark
+  - findspark.init('/home/yerke/spark-3.3.0-bin-hadoop3')
+  - import pyspark
