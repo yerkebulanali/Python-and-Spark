@@ -30,6 +30,8 @@ Download and Install Ubuntu
 
 - Download and Install Spark
   - https://spark.apache.org/downloads.html
+
+- Ubuntu Terminal
   - sudo tar -zxvf spark-3.3.0-bin-hadoop3.tgz
   - export SPARK_HOME='home/ubuntu/spark/spark-3.3.0-bin-hadoop3'
   - export PATH=$SPARK_HOME:$PATH
@@ -37,3 +39,6 @@ Download and Install Ubuntu
   - export PYSPARK_DRIVER_PYTHON='jupyter'
   - export PYSPARK_DRIVER_PYTHON_OPTS='notebook'
   - export PYSPARK_PYTHON=python3
+
+- Setting up PySpark
+  - pip install findspark
