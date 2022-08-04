@@ -2,6 +2,8 @@
 ## Description ##
 Some tutorial notes for Spark and Python.
 
+  - https://tengizchevroil.udemy.com/course/spark-and-python-for-big-data-with-pyspark
+
 
 ## Download ##
 
